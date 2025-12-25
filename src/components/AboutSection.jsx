@@ -12,7 +12,7 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-muted-foreground">
-              Hi, I’m Sarra — a passionate software developer who loves turning ideas into impactful solutions. I specialize in Web Development, System Administration and Automation .
+              Hi, I’m Sarra, a passionate software developer who loves turning ideas into impactful solutions. I specialize in Web Development, System Administration and Automation .
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
